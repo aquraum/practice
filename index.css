@@ -7,7 +7,7 @@
 .circle {
     width: 200px;
     height: 200px;
-    background: skyblue;
+    background: tomato;
     border-radius: 50%;
     box-sizing: border-box;
 }
