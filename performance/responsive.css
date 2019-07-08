@@ -1,0 +1,35 @@
+.responsive {
+    margin: 20px;
+    box-sizing: border-box;
+}
+
+
+.circle {
+    width: 200px;
+    height: 200px;
+    background: skyblue;
+    border-radius: 50%;
+    box-sizing: border-box;
+}
+.ijyo {
+    display: none;
+}
+
+
+
+@media screen and (min-width:900px) {
+    .responsive {
+        box-sizing: border-box;
+    }
+    
+    
+    .circle {
+        background: hotpink;
+    } 
+    .ika {
+        display: none;
+    }
+    .ijyo {
+        display: block;
+    }
+}
