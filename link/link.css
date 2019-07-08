@@ -1,0 +1,17 @@
+.link {
+    width: 300px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin: 50px;
+    color: #bc302c;
+    background-color: #fff;
+    border: solid 1px #bc302c;
+    border-radius: 50px;
+    text-align: center;
+    transition: all 0.5s ease;
+}
+
+.link:hover {
+    color: #fff;
+    background-color: #bc302c;
+}

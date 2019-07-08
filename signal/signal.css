@@ -1,0 +1,24 @@
+.signal {
+    display: inline-block;
+    border: 10px solid #000;
+    font-size: 0px;
+    padding: 10px;
+    border-radius: 130px;
+    margin: 50px;
+}
+.circle {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    display: inline-block;
+    margin: 10px;
+}
+.circle-blue {
+    background: #00ffff;
+}
+.circle-yellow {
+    background: #fff100;
+}
+.circle-red {
+    background: #bc302c;
+}
